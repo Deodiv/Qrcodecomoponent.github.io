@@ -1,0 +1,1 @@
+# Qrcodecomoponent.github.io
